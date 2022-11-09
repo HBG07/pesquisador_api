@@ -1,0 +1,8 @@
+django = *
+djangorestframework = *
+dj-rest-auth = *
+django-allauth = *
+django-filter = *
+django-cors-headers = *
+django-guardian = *
+drf-yasg = *
